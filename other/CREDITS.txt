@@ -1,0 +1,9 @@
+Flying Over the Influence
+
+Matt Shouse - Art
+Robert Utter - Code
+
+
+Environmental textures are derived from CGTextures assets.
+
+Skybox textures are imported from Unity's Standard Assets package.
